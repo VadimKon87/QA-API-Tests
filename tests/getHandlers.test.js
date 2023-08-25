@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-undef
 const config = require('../config');
 
-// Testing - Get a list of warehouses GET /api/v1/warehouses
+/*  Testing - Get a list of warehouses GET /api/v1/warehouses */
 
 // Testing that we get 200 status code in response
 test('status should be 200', async () => {
