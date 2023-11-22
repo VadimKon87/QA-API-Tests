@@ -1,4 +1,3 @@
-# Sprint 7 project
 In this project there are tests for checking GET, POST, PUT and DELETE methods for various Urban Grocers app APIs.
 To run all tests use 'npx jest' command, to run seperate tests use 'npx jest filename' (e.g. 'npx jest getHandlers.test.js')
 
